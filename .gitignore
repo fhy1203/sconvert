@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# R
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Test data files
+*.rds
+*.h5ad
+*.h5
+*.mtx
+*.tar.gz
+output_*.rds
+output_*.h5ad
+
+# Spatial data files (test data)
+spatial/**/*.jpg
+spatial/**/*.png
+spatial/**/*.tiff
+spatial/spatial/
+
+# Test directories
+singcell/
+test_*/
+
+# Temporary files
+*.tmp
+*.temp
+sconvert_*/
+temp_*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
