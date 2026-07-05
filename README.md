@@ -179,7 +179,7 @@ conda install -c conda-forge r-base
 
 ## 作者
 
-生物信息工程师
+凡python
 
 ## 许可证
 
